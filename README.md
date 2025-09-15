@@ -1,4 +1,4 @@
-# Simulation method for telegraph processes
+# Simulation methods for telegraph processes
 
 This repo contains C++/Rcpp simulation code from the paper:
 
