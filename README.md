@@ -4,7 +4,7 @@ This repo contains C++/Rcpp simulation code from the paper:
 
 * G. Barrera, J. Lukkarinen and M. S. Pakkanen (2025): Wasserstein error estimates between telegraph processes and Brownian motion.
 
-## Contents
+## Contents and getting started
 
 ```
 .
@@ -15,6 +15,8 @@ This repo contains C++/Rcpp simulation code from the paper:
 ├── LICENSE
 └── README.md          # This file
 ```
+
+Copy the contents of `src/` to your working directory and `sourceCpp()` the files `bm_price.cpp` and `tele_price.cpp`.
 
 ## Requirements
 
