@@ -12,7 +12,7 @@ This repo contains C++/Rcpp simulation code from the paper:
 |   ├── bm_price.cpp   # Arithmetic Asian option Monte Carlo pricer under Brownian motion
 |   ├── tele_price.cpp # Arithmetic Asian option Monte Carlo pricer under a telegraph process
 |   └── tele_utils.hpp # Utility functions to compute the option payoff for a telegraph process
-├── LICENCE
+├── LICENSE
 └── README.md          # This file
 ```
 
